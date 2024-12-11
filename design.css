@@ -11,7 +11,7 @@ body {
     overflow: hidden;
 }
     .gallery {
-        --d: 30s; /* duration */
+        --d: 20s; /* duration */
         display: grid;
         place-items: center; /* Center both horizontally and vertically */
         width: 75%; /* Use a flexible width */
