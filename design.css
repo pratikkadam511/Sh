@@ -14,7 +14,7 @@ body {
         --d: 30s; /* duration */
         display: grid;
         place-items: center; /* Center both horizontally and vertically */
-        width: 90%; /* Use a flexible width */
+        width: 75%; /* Use a flexible width */
         max-width: 600px; /* Max width to prevent stretching too large on wide screens */
         margin: 5vh auto; /* Vertical margin with flexible spacing */
 
